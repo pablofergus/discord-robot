@@ -1,0 +1,18 @@
+{
+  "general": {
+    "prefix": "",
+    "purge_message": false
+  },
+  "music": {
+    "volume": 50,
+    "text_channel": "music",
+    "clear_invoker": false,
+    "max_queue": 40,
+    "repeat": false
+  },
+  "permissions": {
+    "music_permission": "manage_webhooks",
+    "purge_permission": "MANAGE_MESSAGES",
+    "playlist_permission": "manage_webhooks"
+  }
+}

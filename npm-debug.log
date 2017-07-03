@@ -1,0 +1,748 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/nodejs', '/usr/bin/npm', 'outdated' ]
+2 info using npm@3.10.10
+3 info using node@v6.11.0
+4 verbose config Skipping project config: /home/fergus/.npmrc. (matches userconfig)
+5 silly mapToRegistry name healing.mp3
+6 silly mapToRegistry using default registry
+7 silly mapToRegistry registry https://registry.npmjs.org/
+8 silly mapToRegistry data Result {
+8 silly mapToRegistry   raw: 'healing.mp3',
+8 silly mapToRegistry   scope: null,
+8 silly mapToRegistry   escapedName: 'healing.mp3',
+8 silly mapToRegistry   name: 'healing.mp3',
+8 silly mapToRegistry   rawSpec: '',
+8 silly mapToRegistry   spec: 'latest',
+8 silly mapToRegistry   type: 'tag' }
+9 silly mapToRegistry uri https://registry.npmjs.org/healing.mp3
+10 silly mapToRegistry name message-processing.js
+11 silly mapToRegistry using default registry
+12 silly mapToRegistry registry https://registry.npmjs.org/
+13 silly mapToRegistry data Result {
+13 silly mapToRegistry   raw: 'message-processing.js',
+13 silly mapToRegistry   scope: null,
+13 silly mapToRegistry   escapedName: 'message-processing.js',
+13 silly mapToRegistry   name: 'message-processing.js',
+13 silly mapToRegistry   rawSpec: '',
+13 silly mapToRegistry   spec: 'latest',
+13 silly mapToRegistry   type: 'tag' }
+14 silly mapToRegistry uri https://registry.npmjs.org/message-processing.js
+15 silly mapToRegistry name npm-debug.log
+16 silly mapToRegistry using default registry
+17 silly mapToRegistry registry https://registry.npmjs.org/
+18 silly mapToRegistry data Result {
+18 silly mapToRegistry   raw: 'npm-debug.log',
+18 silly mapToRegistry   scope: null,
+18 silly mapToRegistry   escapedName: 'npm-debug.log',
+18 silly mapToRegistry   name: 'npm-debug.log',
+18 silly mapToRegistry   rawSpec: '',
+18 silly mapToRegistry   spec: 'latest',
+18 silly mapToRegistry   type: 'tag' }
+19 silly mapToRegistry uri https://registry.npmjs.org/npm-debug.log
+20 silly mapToRegistry name testing_bot.js
+21 silly mapToRegistry using default registry
+22 silly mapToRegistry registry https://registry.npmjs.org/
+23 silly mapToRegistry data Result {
+23 silly mapToRegistry   raw: 'testing_bot.js',
+23 silly mapToRegistry   scope: null,
+23 silly mapToRegistry   escapedName: 'testing_bot.js',
+23 silly mapToRegistry   name: 'testing_bot.js',
+23 silly mapToRegistry   rawSpec: '',
+23 silly mapToRegistry   spec: 'latest',
+23 silly mapToRegistry   type: 'tag' }
+24 silly mapToRegistry uri https://registry.npmjs.org/testing_bot.js
+25 silly mapToRegistry name discord.js
+26 silly mapToRegistry using default registry
+27 silly mapToRegistry registry https://registry.npmjs.org/
+28 silly mapToRegistry data Result {
+28 silly mapToRegistry   raw: 'discord.js',
+28 silly mapToRegistry   scope: null,
+28 silly mapToRegistry   escapedName: 'discord.js',
+28 silly mapToRegistry   name: 'discord.js',
+28 silly mapToRegistry   rawSpec: '',
+28 silly mapToRegistry   spec: 'latest',
+28 silly mapToRegistry   type: 'tag' }
+29 silly mapToRegistry uri https://registry.npmjs.org/discord.js
+30 silly mapToRegistry name discord.js-music-v11
+31 silly mapToRegistry using default registry
+32 silly mapToRegistry registry https://registry.npmjs.org/
+33 silly mapToRegistry data Result {
+33 silly mapToRegistry   raw: 'discord.js-music-v11',
+33 silly mapToRegistry   scope: null,
+33 silly mapToRegistry   escapedName: 'discord.js-music-v11',
+33 silly mapToRegistry   name: 'discord.js-music-v11',
+33 silly mapToRegistry   rawSpec: '',
+33 silly mapToRegistry   spec: 'latest',
+33 silly mapToRegistry   type: 'tag' }
+34 silly mapToRegistry uri https://registry.npmjs.org/discord.js-music-v11
+35 silly mapToRegistry name ffmpeg-binaries
+36 silly mapToRegistry using default registry
+37 silly mapToRegistry registry https://registry.npmjs.org/
+38 silly mapToRegistry data Result {
+38 silly mapToRegistry   raw: 'ffmpeg-binaries',
+38 silly mapToRegistry   scope: null,
+38 silly mapToRegistry   escapedName: 'ffmpeg-binaries',
+38 silly mapToRegistry   name: 'ffmpeg-binaries',
+38 silly mapToRegistry   rawSpec: '',
+38 silly mapToRegistry   spec: 'latest',
+38 silly mapToRegistry   type: 'tag' }
+39 silly mapToRegistry uri https://registry.npmjs.org/ffmpeg-binaries
+40 silly mapToRegistry name html-entities
+41 silly mapToRegistry using default registry
+42 silly mapToRegistry registry https://registry.npmjs.org/
+43 silly mapToRegistry data Result {
+43 silly mapToRegistry   raw: 'html-entities',
+43 silly mapToRegistry   scope: null,
+43 silly mapToRegistry   escapedName: 'html-entities',
+43 silly mapToRegistry   name: 'html-entities',
+43 silly mapToRegistry   rawSpec: '',
+43 silly mapToRegistry   spec: 'latest',
+43 silly mapToRegistry   type: 'tag' }
+44 silly mapToRegistry uri https://registry.npmjs.org/html-entities
+45 silly mapToRegistry name long
+46 silly mapToRegistry using default registry
+47 silly mapToRegistry registry https://registry.npmjs.org/
+48 silly mapToRegistry data Result {
+48 silly mapToRegistry   raw: 'long',
+48 silly mapToRegistry   scope: null,
+48 silly mapToRegistry   escapedName: 'long',
+48 silly mapToRegistry   name: 'long',
+48 silly mapToRegistry   rawSpec: '',
+48 silly mapToRegistry   spec: 'latest',
+48 silly mapToRegistry   type: 'tag' }
+49 silly mapToRegistry uri https://registry.npmjs.org/long
+50 silly mapToRegistry name nconf
+51 silly mapToRegistry using default registry
+52 silly mapToRegistry registry https://registry.npmjs.org/
+53 silly mapToRegistry data Result {
+53 silly mapToRegistry   raw: 'nconf',
+53 silly mapToRegistry   scope: null,
+53 silly mapToRegistry   escapedName: 'nconf',
+53 silly mapToRegistry   name: 'nconf',
+53 silly mapToRegistry   rawSpec: '',
+53 silly mapToRegistry   spec: 'latest',
+53 silly mapToRegistry   type: 'tag' }
+54 silly mapToRegistry uri https://registry.npmjs.org/nconf
+55 silly mapToRegistry name node-opus
+56 silly mapToRegistry using default registry
+57 silly mapToRegistry registry https://registry.npmjs.org/
+58 silly mapToRegistry data Result {
+58 silly mapToRegistry   raw: 'node-opus',
+58 silly mapToRegistry   scope: null,
+58 silly mapToRegistry   escapedName: 'node-opus',
+58 silly mapToRegistry   name: 'node-opus',
+58 silly mapToRegistry   rawSpec: '',
+58 silly mapToRegistry   spec: 'latest',
+58 silly mapToRegistry   type: 'tag' }
+59 silly mapToRegistry uri https://registry.npmjs.org/node-opus
+60 silly mapToRegistry name prism-media
+61 silly mapToRegistry using default registry
+62 silly mapToRegistry registry https://registry.npmjs.org/
+63 silly mapToRegistry data Result {
+63 silly mapToRegistry   raw: 'prism-media',
+63 silly mapToRegistry   scope: null,
+63 silly mapToRegistry   escapedName: 'prism-media',
+63 silly mapToRegistry   name: 'prism-media',
+63 silly mapToRegistry   rawSpec: '',
+63 silly mapToRegistry   spec: 'latest',
+63 silly mapToRegistry   type: 'tag' }
+64 silly mapToRegistry uri https://registry.npmjs.org/prism-media
+65 silly mapToRegistry name sax
+66 silly mapToRegistry using default registry
+67 silly mapToRegistry registry https://registry.npmjs.org/
+68 silly mapToRegistry data Result {
+68 silly mapToRegistry   raw: 'sax',
+68 silly mapToRegistry   scope: null,
+68 silly mapToRegistry   escapedName: 'sax',
+68 silly mapToRegistry   name: 'sax',
+68 silly mapToRegistry   rawSpec: '',
+68 silly mapToRegistry   spec: 'latest',
+68 silly mapToRegistry   type: 'tag' }
+69 silly mapToRegistry uri https://registry.npmjs.org/sax
+70 silly mapToRegistry name snekfetch
+71 silly mapToRegistry using default registry
+72 silly mapToRegistry registry https://registry.npmjs.org/
+73 silly mapToRegistry data Result {
+73 silly mapToRegistry   raw: 'snekfetch',
+73 silly mapToRegistry   scope: null,
+73 silly mapToRegistry   escapedName: 'snekfetch',
+73 silly mapToRegistry   name: 'snekfetch',
+73 silly mapToRegistry   rawSpec: '',
+73 silly mapToRegistry   spec: 'latest',
+73 silly mapToRegistry   type: 'tag' }
+74 silly mapToRegistry uri https://registry.npmjs.org/snekfetch
+75 silly mapToRegistry name sync-request
+76 silly mapToRegistry using default registry
+77 silly mapToRegistry registry https://registry.npmjs.org/
+78 silly mapToRegistry data Result {
+78 silly mapToRegistry   raw: 'sync-request',
+78 silly mapToRegistry   scope: null,
+78 silly mapToRegistry   escapedName: 'sync-request',
+78 silly mapToRegistry   name: 'sync-request',
+78 silly mapToRegistry   rawSpec: '',
+78 silly mapToRegistry   spec: 'latest',
+78 silly mapToRegistry   type: 'tag' }
+79 silly mapToRegistry uri https://registry.npmjs.org/sync-request
+80 silly mapToRegistry name ws
+81 silly mapToRegistry using default registry
+82 silly mapToRegistry registry https://registry.npmjs.org/
+83 silly mapToRegistry data Result {
+83 silly mapToRegistry   raw: 'ws',
+83 silly mapToRegistry   scope: null,
+83 silly mapToRegistry   escapedName: 'ws',
+83 silly mapToRegistry   name: 'ws',
+83 silly mapToRegistry   rawSpec: '',
+83 silly mapToRegistry   spec: 'latest',
+83 silly mapToRegistry   type: 'tag' }
+84 silly mapToRegistry uri https://registry.npmjs.org/ws
+85 verbose request uri https://registry.npmjs.org/healing.mp3
+86 verbose request no auth needed
+87 info attempt registry request try #1 at 6:00:10 PM
+88 verbose request id 0923bfb1618336c7
+89 http request GET https://registry.npmjs.org/healing.mp3
+90 verbose request uri https://registry.npmjs.org/message-processing.js
+91 verbose request no auth needed
+92 info attempt registry request try #1 at 6:00:10 PM
+93 http request GET https://registry.npmjs.org/message-processing.js
+94 verbose request uri https://registry.npmjs.org/npm-debug.log
+95 verbose request no auth needed
+96 info attempt registry request try #1 at 6:00:10 PM
+97 http request GET https://registry.npmjs.org/npm-debug.log
+98 verbose request uri https://registry.npmjs.org/testing_bot.js
+99 verbose request no auth needed
+100 info attempt registry request try #1 at 6:00:10 PM
+101 http request GET https://registry.npmjs.org/testing_bot.js
+102 verbose request uri https://registry.npmjs.org/ffmpeg-binaries
+103 verbose request no auth needed
+104 info attempt registry request try #1 at 6:00:10 PM
+105 verbose etag W/"5891188e-1442"
+106 verbose lastModified Tue, 31 Jan 2017 23:06:54 GMT
+107 http request GET https://registry.npmjs.org/ffmpeg-binaries
+108 verbose request uri https://registry.npmjs.org/discord.js
+109 verbose request no auth needed
+110 info attempt registry request try #1 at 6:00:10 PM
+111 verbose etag W/"593b2fc8-213aa"
+112 verbose lastModified Fri, 09 Jun 2017 23:31:20 GMT
+113 http request GET https://registry.npmjs.org/discord.js
+114 verbose request uri https://registry.npmjs.org/html-entities
+115 verbose request no auth needed
+116 info attempt registry request try #1 at 6:00:10 PM
+117 verbose etag W/"593a1496-56b1"
+118 verbose lastModified Fri, 09 Jun 2017 03:23:02 GMT
+119 http request GET https://registry.npmjs.org/html-entities
+120 verbose request uri https://registry.npmjs.org/long
+121 verbose request no auth needed
+122 info attempt registry request try #1 at 6:00:10 PM
+123 verbose etag W/"5876c7ab-d0bc"
+124 verbose lastModified Thu, 12 Jan 2017 00:02:51 GMT
+125 http request GET https://registry.npmjs.org/long
+126 verbose request uri https://registry.npmjs.org/nconf
+127 verbose request no auth needed
+128 info attempt registry request try #1 at 6:00:10 PM
+129 verbose etag W/"5931291d-ac7a"
+130 verbose lastModified Fri, 02 Jun 2017 09:00:13 GMT
+131 http request GET https://registry.npmjs.org/nconf
+132 verbose request uri https://registry.npmjs.org/discord.js-music-v11
+133 verbose request no auth needed
+134 info attempt registry request try #1 at 6:00:10 PM
+135 verbose etag W/"58aff37f-42ab"
+136 verbose lastModified Fri, 24 Feb 2017 08:49:03 GMT
+137 http request GET https://registry.npmjs.org/discord.js-music-v11
+138 verbose request uri https://registry.npmjs.org/node-opus
+139 verbose request no auth needed
+140 info attempt registry request try #1 at 6:00:10 PM
+141 verbose etag W/"58e7fe39-6dea"
+142 verbose lastModified Fri, 07 Apr 2017 21:01:45 GMT
+143 http request GET https://registry.npmjs.org/node-opus
+144 verbose request uri https://registry.npmjs.org/prism-media
+145 verbose request no auth needed
+146 info attempt registry request try #1 at 6:00:10 PM
+147 verbose etag W/"58f26753-b51"
+148 verbose lastModified Sat, 15 Apr 2017 18:32:51 GMT
+149 http request GET https://registry.npmjs.org/prism-media
+150 verbose request uri https://registry.npmjs.org/sax
+151 verbose request no auth needed
+152 info attempt registry request try #1 at 6:00:10 PM
+153 verbose etag W/"591c8e1a-e9a0"
+154 verbose lastModified Wed, 17 May 2017 17:53:30 GMT
+155 http request GET https://registry.npmjs.org/sax
+156 verbose request uri https://registry.npmjs.org/snekfetch
+157 verbose request no auth needed
+158 info attempt registry request try #1 at 6:00:10 PM
+159 verbose etag W/"593ab934-83de"
+160 verbose lastModified Fri, 09 Jun 2017 15:05:24 GMT
+161 http request GET https://registry.npmjs.org/snekfetch
+162 verbose request uri https://registry.npmjs.org/sync-request
+163 verbose request no auth needed
+164 info attempt registry request try #1 at 6:00:10 PM
+165 verbose etag W/"5936b0c2-602e"
+166 verbose lastModified Tue, 06 Jun 2017 13:40:18 GMT
+167 http request GET https://registry.npmjs.org/sync-request
+168 verbose request uri https://registry.npmjs.org/ws
+169 verbose request no auth needed
+170 info attempt registry request try #1 at 6:00:10 PM
+171 verbose etag W/"594074dd-1d3de"
+172 verbose lastModified Tue, 13 Jun 2017 23:27:25 GMT
+173 http request GET https://registry.npmjs.org/ws
+174 http 304 https://registry.npmjs.org/discord.js
+175 verbose headers { date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+175 verbose headers   via: '1.1 varnish',
+175 verbose headers   'cache-control': 'max-age=300',
+175 verbose headers   etag: 'W/"593b2fc8-213aa"',
+175 verbose headers   age: '215',
+175 verbose headers   connection: 'keep-alive',
+175 verbose headers   'x-served-by': 'cache-lhr6344-LHR',
+175 verbose headers   'x-cache': 'HIT',
+175 verbose headers   'x-cache-hits': '1',
+175 verbose headers   'x-timer': 'S1497456010.358140,VS0,VE0',
+175 verbose headers   vary: 'Accept-Encoding' }
+176 silly get cb [ 304,
+176 silly get   { date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+176 silly get     via: '1.1 varnish',
+176 silly get     'cache-control': 'max-age=300',
+176 silly get     etag: 'W/"593b2fc8-213aa"',
+176 silly get     age: '215',
+176 silly get     connection: 'keep-alive',
+176 silly get     'x-served-by': 'cache-lhr6344-LHR',
+176 silly get     'x-cache': 'HIT',
+176 silly get     'x-cache-hits': '1',
+176 silly get     'x-timer': 'S1497456010.358140,VS0,VE0',
+176 silly get     vary: 'Accept-Encoding' } ]
+177 verbose etag https://registry.npmjs.org/discord.js from cache
+178 verbose get saving discord.js to /home/fergus/.npm/registry.npmjs.org/discord.js/.cache.json
+179 verbose correctMkdir /home/fergus/.npm correctMkdir not in flight; initializing
+180 http 304 https://registry.npmjs.org/nconf
+181 verbose headers { date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+181 verbose headers   via: '1.1 varnish',
+181 verbose headers   'cache-control': 'max-age=300',
+181 verbose headers   etag: 'W/"5931291d-ac7a"',
+181 verbose headers   age: '179',
+181 verbose headers   connection: 'keep-alive',
+181 verbose headers   'x-served-by': 'cache-lhr6339-LHR',
+181 verbose headers   'x-cache': 'HIT',
+181 verbose headers   'x-cache-hits': '1',
+181 verbose headers   'x-timer': 'S1497456010.416936,VS0,VE1',
+181 verbose headers   vary: 'Accept-Encoding' }
+182 silly get cb [ 304,
+182 silly get   { date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+182 silly get     via: '1.1 varnish',
+182 silly get     'cache-control': 'max-age=300',
+182 silly get     etag: 'W/"5931291d-ac7a"',
+182 silly get     age: '179',
+182 silly get     connection: 'keep-alive',
+182 silly get     'x-served-by': 'cache-lhr6339-LHR',
+182 silly get     'x-cache': 'HIT',
+182 silly get     'x-cache-hits': '1',
+182 silly get     'x-timer': 'S1497456010.416936,VS0,VE1',
+182 silly get     vary: 'Accept-Encoding' } ]
+183 verbose etag https://registry.npmjs.org/nconf from cache
+184 verbose get saving nconf to /home/fergus/.npm/registry.npmjs.org/nconf/.cache.json
+185 verbose correctMkdir /home/fergus/.npm correctMkdir not in flight; initializing
+186 http 304 https://registry.npmjs.org/discord.js-music-v11
+187 verbose headers { date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+187 verbose headers   via: '1.1 varnish',
+187 verbose headers   'cache-control': 'max-age=300',
+187 verbose headers   etag: 'W/"58aff37f-42ab"',
+187 verbose headers   age: '215',
+187 verbose headers   connection: 'keep-alive',
+187 verbose headers   'x-served-by': 'cache-lhr6347-LHR',
+187 verbose headers   'x-cache': 'HIT',
+187 verbose headers   'x-cache-hits': '2',
+187 verbose headers   'x-timer': 'S1497456010.416919,VS0,VE0',
+187 verbose headers   vary: 'Accept-Encoding' }
+188 silly get cb [ 304,
+188 silly get   { date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+188 silly get     via: '1.1 varnish',
+188 silly get     'cache-control': 'max-age=300',
+188 silly get     etag: 'W/"58aff37f-42ab"',
+188 silly get     age: '215',
+188 silly get     connection: 'keep-alive',
+188 silly get     'x-served-by': 'cache-lhr6347-LHR',
+188 silly get     'x-cache': 'HIT',
+188 silly get     'x-cache-hits': '2',
+188 silly get     'x-timer': 'S1497456010.416919,VS0,VE0',
+188 silly get     vary: 'Accept-Encoding' } ]
+189 verbose etag https://registry.npmjs.org/discord.js-music-v11 from cache
+190 verbose get saving discord.js-music-v11 to /home/fergus/.npm/registry.npmjs.org/discord.js-music-v11/.cache.json
+191 verbose correctMkdir /home/fergus/.npm correctMkdir not in flight; initializing
+192 http 304 https://registry.npmjs.org/prism-media
+193 verbose headers { date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+193 verbose headers   via: '1.1 varnish',
+193 verbose headers   'cache-control': 'max-age=300',
+193 verbose headers   etag: 'W/"58f26753-b51"',
+193 verbose headers   age: '218',
+193 verbose headers   connection: 'keep-alive',
+193 verbose headers   'x-served-by': 'cache-lhr6334-LHR',
+193 verbose headers   'x-cache': 'HIT',
+193 verbose headers   'x-cache-hits': '1',
+193 verbose headers   'x-timer': 'S1497456010.417248,VS0,VE1',
+193 verbose headers   vary: 'Accept-Encoding' }
+194 silly get cb [ 304,
+194 silly get   { date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+194 silly get     via: '1.1 varnish',
+194 silly get     'cache-control': 'max-age=300',
+194 silly get     etag: 'W/"58f26753-b51"',
+194 silly get     age: '218',
+194 silly get     connection: 'keep-alive',
+194 silly get     'x-served-by': 'cache-lhr6334-LHR',
+194 silly get     'x-cache': 'HIT',
+194 silly get     'x-cache-hits': '1',
+194 silly get     'x-timer': 'S1497456010.417248,VS0,VE1',
+194 silly get     vary: 'Accept-Encoding' } ]
+195 verbose etag https://registry.npmjs.org/prism-media from cache
+196 verbose get saving prism-media to /home/fergus/.npm/registry.npmjs.org/prism-media/.cache.json
+197 verbose correctMkdir /home/fergus/.npm correctMkdir not in flight; initializing
+198 http 304 https://registry.npmjs.org/node-opus
+199 verbose headers { date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+199 verbose headers   via: '1.1 varnish',
+199 verbose headers   'cache-control': 'max-age=300',
+199 verbose headers   etag: 'W/"58e7fe39-6dea"',
+199 verbose headers   age: '215',
+199 verbose headers   connection: 'keep-alive',
+199 verbose headers   'x-served-by': 'cache-lhr6340-LHR',
+199 verbose headers   'x-cache': 'HIT',
+199 verbose headers   'x-cache-hits': '1',
+199 verbose headers   'x-timer': 'S1497456010.415595,VS0,VE0',
+199 verbose headers   vary: 'Accept-Encoding' }
+200 silly get cb [ 304,
+200 silly get   { date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+200 silly get     via: '1.1 varnish',
+200 silly get     'cache-control': 'max-age=300',
+200 silly get     etag: 'W/"58e7fe39-6dea"',
+200 silly get     age: '215',
+200 silly get     connection: 'keep-alive',
+200 silly get     'x-served-by': 'cache-lhr6340-LHR',
+200 silly get     'x-cache': 'HIT',
+200 silly get     'x-cache-hits': '1',
+200 silly get     'x-timer': 'S1497456010.415595,VS0,VE0',
+200 silly get     vary: 'Accept-Encoding' } ]
+201 verbose etag https://registry.npmjs.org/node-opus from cache
+202 verbose get saving node-opus to /home/fergus/.npm/registry.npmjs.org/node-opus/.cache.json
+203 verbose correctMkdir /home/fergus/.npm correctMkdir not in flight; initializing
+204 http 304 https://registry.npmjs.org/sax
+205 verbose headers { date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+205 verbose headers   via: '1.1 varnish',
+205 verbose headers   'cache-control': 'max-age=300',
+205 verbose headers   etag: 'W/"591c8e1a-e9a0"',
+205 verbose headers   age: '189',
+205 verbose headers   connection: 'keep-alive',
+205 verbose headers   'x-served-by': 'cache-lhr6321-LHR',
+205 verbose headers   'x-cache': 'HIT',
+205 verbose headers   'x-cache-hits': '522',
+205 verbose headers   'x-timer': 'S1497456010.418454,VS0,VE0',
+205 verbose headers   vary: 'Accept-Encoding' }
+206 silly get cb [ 304,
+206 silly get   { date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+206 silly get     via: '1.1 varnish',
+206 silly get     'cache-control': 'max-age=300',
+206 silly get     etag: 'W/"591c8e1a-e9a0"',
+206 silly get     age: '189',
+206 silly get     connection: 'keep-alive',
+206 silly get     'x-served-by': 'cache-lhr6321-LHR',
+206 silly get     'x-cache': 'HIT',
+206 silly get     'x-cache-hits': '522',
+206 silly get     'x-timer': 'S1497456010.418454,VS0,VE0',
+206 silly get     vary: 'Accept-Encoding' } ]
+207 verbose etag https://registry.npmjs.org/sax from cache
+208 verbose get saving sax to /home/fergus/.npm/registry.npmjs.org/sax/.cache.json
+209 verbose correctMkdir /home/fergus/.npm correctMkdir not in flight; initializing
+210 http 304 https://registry.npmjs.org/html-entities
+211 verbose headers { date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+211 verbose headers   via: '1.1 varnish',
+211 verbose headers   'cache-control': 'max-age=300',
+211 verbose headers   etag: 'W/"593a1496-56b1"',
+211 verbose headers   age: '269',
+211 verbose headers   connection: 'keep-alive',
+211 verbose headers   'x-served-by': 'cache-lhr6343-LHR',
+211 verbose headers   'x-cache': 'HIT',
+211 verbose headers   'x-cache-hits': '2',
+211 verbose headers   'x-timer': 'S1497456010.417701,VS0,VE0',
+211 verbose headers   vary: 'Accept-Encoding' }
+212 silly get cb [ 304,
+212 silly get   { date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+212 silly get     via: '1.1 varnish',
+212 silly get     'cache-control': 'max-age=300',
+212 silly get     etag: 'W/"593a1496-56b1"',
+212 silly get     age: '269',
+212 silly get     connection: 'keep-alive',
+212 silly get     'x-served-by': 'cache-lhr6343-LHR',
+212 silly get     'x-cache': 'HIT',
+212 silly get     'x-cache-hits': '2',
+212 silly get     'x-timer': 'S1497456010.417701,VS0,VE0',
+212 silly get     vary: 'Accept-Encoding' } ]
+213 verbose etag https://registry.npmjs.org/html-entities from cache
+214 verbose get saving html-entities to /home/fergus/.npm/registry.npmjs.org/html-entities/.cache.json
+215 verbose correctMkdir /home/fergus/.npm correctMkdir not in flight; initializing
+216 http 304 https://registry.npmjs.org/long
+217 verbose headers { date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+217 verbose headers   via: '1.1 varnish',
+217 verbose headers   'cache-control': 'max-age=300',
+217 verbose headers   etag: 'W/"5876c7ab-d0bc"',
+217 verbose headers   age: '118',
+217 verbose headers   connection: 'keep-alive',
+217 verbose headers   'x-served-by': 'cache-lhr6348-LHR',
+217 verbose headers   'x-cache': 'HIT',
+217 verbose headers   'x-cache-hits': '1',
+217 verbose headers   'x-timer': 'S1497456010.422570,VS0,VE0',
+217 verbose headers   vary: 'Accept-Encoding' }
+218 silly get cb [ 304,
+218 silly get   { date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+218 silly get     via: '1.1 varnish',
+218 silly get     'cache-control': 'max-age=300',
+218 silly get     etag: 'W/"5876c7ab-d0bc"',
+218 silly get     age: '118',
+218 silly get     connection: 'keep-alive',
+218 silly get     'x-served-by': 'cache-lhr6348-LHR',
+218 silly get     'x-cache': 'HIT',
+218 silly get     'x-cache-hits': '1',
+218 silly get     'x-timer': 'S1497456010.422570,VS0,VE0',
+218 silly get     vary: 'Accept-Encoding' } ]
+219 verbose etag https://registry.npmjs.org/long from cache
+220 verbose get saving long to /home/fergus/.npm/registry.npmjs.org/long/.cache.json
+221 verbose correctMkdir /home/fergus/.npm correctMkdir not in flight; initializing
+222 http 304 https://registry.npmjs.org/ffmpeg-binaries
+223 verbose headers { date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+223 verbose headers   via: '1.1 varnish',
+223 verbose headers   'cache-control': 'max-age=300',
+223 verbose headers   etag: 'W/"5891188e-1442"',
+223 verbose headers   age: '215',
+223 verbose headers   connection: 'keep-alive',
+223 verbose headers   'x-served-by': 'cache-lhr6336-LHR',
+223 verbose headers   'x-cache': 'HIT',
+223 verbose headers   'x-cache-hits': '1',
+223 verbose headers   'x-timer': 'S1497456010.422919,VS0,VE0',
+223 verbose headers   vary: 'Accept-Encoding' }
+224 silly get cb [ 304,
+224 silly get   { date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+224 silly get     via: '1.1 varnish',
+224 silly get     'cache-control': 'max-age=300',
+224 silly get     etag: 'W/"5891188e-1442"',
+224 silly get     age: '215',
+224 silly get     connection: 'keep-alive',
+224 silly get     'x-served-by': 'cache-lhr6336-LHR',
+224 silly get     'x-cache': 'HIT',
+224 silly get     'x-cache-hits': '1',
+224 silly get     'x-timer': 'S1497456010.422919,VS0,VE0',
+224 silly get     vary: 'Accept-Encoding' } ]
+225 verbose etag https://registry.npmjs.org/ffmpeg-binaries from cache
+226 verbose get saving ffmpeg-binaries to /home/fergus/.npm/registry.npmjs.org/ffmpeg-binaries/.cache.json
+227 verbose correctMkdir /home/fergus/.npm correctMkdir not in flight; initializing
+228 http 304 https://registry.npmjs.org/ws
+229 verbose headers { date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+229 verbose headers   via: '1.1 varnish',
+229 verbose headers   'cache-control': 'max-age=300',
+229 verbose headers   etag: 'W/"594074dd-1d3de"',
+229 verbose headers   age: '180',
+229 verbose headers   connection: 'keep-alive',
+229 verbose headers   'x-served-by': 'cache-lhr6333-LHR',
+229 verbose headers   'x-cache': 'HIT',
+229 verbose headers   'x-cache-hits': '5',
+229 verbose headers   'x-timer': 'S1497456010.422343,VS0,VE0',
+229 verbose headers   vary: 'Accept-Encoding' }
+230 silly get cb [ 304,
+230 silly get   { date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+230 silly get     via: '1.1 varnish',
+230 silly get     'cache-control': 'max-age=300',
+230 silly get     etag: 'W/"594074dd-1d3de"',
+230 silly get     age: '180',
+230 silly get     connection: 'keep-alive',
+230 silly get     'x-served-by': 'cache-lhr6333-LHR',
+230 silly get     'x-cache': 'HIT',
+230 silly get     'x-cache-hits': '5',
+230 silly get     'x-timer': 'S1497456010.422343,VS0,VE0',
+230 silly get     vary: 'Accept-Encoding' } ]
+231 verbose etag https://registry.npmjs.org/ws from cache
+232 verbose get saving ws to /home/fergus/.npm/registry.npmjs.org/ws/.cache.json
+233 verbose correctMkdir /home/fergus/.npm correctMkdir not in flight; initializing
+234 http 304 https://registry.npmjs.org/snekfetch
+235 verbose headers { date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+235 verbose headers   via: '1.1 varnish',
+235 verbose headers   'cache-control': 'max-age=300',
+235 verbose headers   etag: 'W/"593ab934-83de"',
+235 verbose headers   age: '215',
+235 verbose headers   connection: 'keep-alive',
+235 verbose headers   'x-served-by': 'cache-lhr6329-LHR',
+235 verbose headers   'x-cache': 'HIT',
+235 verbose headers   'x-cache-hits': '2',
+235 verbose headers   'x-timer': 'S1497456010.422566,VS0,VE0',
+235 verbose headers   vary: 'Accept-Encoding' }
+236 silly get cb [ 304,
+236 silly get   { date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+236 silly get     via: '1.1 varnish',
+236 silly get     'cache-control': 'max-age=300',
+236 silly get     etag: 'W/"593ab934-83de"',
+236 silly get     age: '215',
+236 silly get     connection: 'keep-alive',
+236 silly get     'x-served-by': 'cache-lhr6329-LHR',
+236 silly get     'x-cache': 'HIT',
+236 silly get     'x-cache-hits': '2',
+236 silly get     'x-timer': 'S1497456010.422566,VS0,VE0',
+236 silly get     vary: 'Accept-Encoding' } ]
+237 verbose etag https://registry.npmjs.org/snekfetch from cache
+238 verbose get saving snekfetch to /home/fergus/.npm/registry.npmjs.org/snekfetch/.cache.json
+239 verbose correctMkdir /home/fergus/.npm correctMkdir not in flight; initializing
+240 http 304 https://registry.npmjs.org/sync-request
+241 verbose headers { date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+241 verbose headers   via: '1.1 varnish',
+241 verbose headers   'cache-control': 'max-age=300',
+241 verbose headers   etag: 'W/"5936b0c2-602e"',
+241 verbose headers   age: '215',
+241 verbose headers   connection: 'keep-alive',
+241 verbose headers   'x-served-by': 'cache-lhr6326-LHR',
+241 verbose headers   'x-cache': 'HIT',
+241 verbose headers   'x-cache-hits': '1',
+241 verbose headers   'x-timer': 'S1497456010.427184,VS0,VE0',
+241 verbose headers   vary: 'Accept-Encoding' }
+242 silly get cb [ 304,
+242 silly get   { date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+242 silly get     via: '1.1 varnish',
+242 silly get     'cache-control': 'max-age=300',
+242 silly get     etag: 'W/"5936b0c2-602e"',
+242 silly get     age: '215',
+242 silly get     connection: 'keep-alive',
+242 silly get     'x-served-by': 'cache-lhr6326-LHR',
+242 silly get     'x-cache': 'HIT',
+242 silly get     'x-cache-hits': '1',
+242 silly get     'x-timer': 'S1497456010.427184,VS0,VE0',
+242 silly get     vary: 'Accept-Encoding' } ]
+243 verbose etag https://registry.npmjs.org/sync-request from cache
+244 verbose get saving sync-request to /home/fergus/.npm/registry.npmjs.org/sync-request/.cache.json
+245 verbose correctMkdir /home/fergus/.npm correctMkdir not in flight; initializing
+246 http 404 https://registry.npmjs.org/testing_bot.js
+247 verbose headers { 'content-type': 'application/json',
+247 verbose headers   'cache-control': 'max-age=0',
+247 verbose headers   'content-length': '2',
+247 verbose headers   'accept-ranges': 'bytes',
+247 verbose headers   date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+247 verbose headers   via: '1.1 varnish',
+247 verbose headers   age: '0',
+247 verbose headers   connection: 'keep-alive',
+247 verbose headers   'x-served-by': 'cache-lhr6351-LHR',
+247 verbose headers   'x-cache': 'MISS',
+247 verbose headers   'x-cache-hits': '0',
+247 verbose headers   'x-timer': 'S1497456010.346418,VS0,VE342',
+247 verbose headers   vary: 'Accept-Encoding' }
+248 silly get cb [ 404,
+248 silly get   { 'content-type': 'application/json',
+248 silly get     'cache-control': 'max-age=0',
+248 silly get     'content-length': '2',
+248 silly get     'accept-ranges': 'bytes',
+248 silly get     date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+248 silly get     via: '1.1 varnish',
+248 silly get     age: '0',
+248 silly get     connection: 'keep-alive',
+248 silly get     'x-served-by': 'cache-lhr6351-LHR',
+248 silly get     'x-cache': 'MISS',
+248 silly get     'x-cache-hits': '0',
+248 silly get     'x-timer': 'S1497456010.346418,VS0,VE342',
+248 silly get     vary: 'Accept-Encoding' } ]
+249 http 404 https://registry.npmjs.org/healing.mp3
+250 verbose headers { 'content-type': 'application/json',
+250 verbose headers   'cache-control': 'max-age=0',
+250 verbose headers   'content-length': '2',
+250 verbose headers   'accept-ranges': 'bytes',
+250 verbose headers   date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+250 verbose headers   via: '1.1 varnish',
+250 verbose headers   age: '0',
+250 verbose headers   connection: 'keep-alive',
+250 verbose headers   'x-served-by': 'cache-lhr6330-LHR',
+250 verbose headers   'x-cache': 'MISS',
+250 verbose headers   'x-cache-hits': '0',
+250 verbose headers   'x-timer': 'S1497456010.336458,VS0,VE605',
+250 verbose headers   vary: 'Accept-Encoding' }
+251 silly get cb [ 404,
+251 silly get   { 'content-type': 'application/json',
+251 silly get     'cache-control': 'max-age=0',
+251 silly get     'content-length': '2',
+251 silly get     'accept-ranges': 'bytes',
+251 silly get     date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+251 silly get     via: '1.1 varnish',
+251 silly get     age: '0',
+251 silly get     connection: 'keep-alive',
+251 silly get     'x-served-by': 'cache-lhr6330-LHR',
+251 silly get     'x-cache': 'MISS',
+251 silly get     'x-cache-hits': '0',
+251 silly get     'x-timer': 'S1497456010.336458,VS0,VE605',
+251 silly get     vary: 'Accept-Encoding' } ]
+252 http 404 https://registry.npmjs.org/npm-debug.log
+253 verbose headers { 'content-type': 'application/json',
+253 verbose headers   'cache-control': 'max-age=0',
+253 verbose headers   'content-length': '2',
+253 verbose headers   'accept-ranges': 'bytes',
+253 verbose headers   date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+253 verbose headers   via: '1.1 varnish',
+253 verbose headers   age: '0',
+253 verbose headers   connection: 'keep-alive',
+253 verbose headers   'x-served-by': 'cache-lhr6333-LHR',
+253 verbose headers   'x-cache': 'MISS',
+253 verbose headers   'x-cache-hits': '0',
+253 verbose headers   'x-timer': 'S1497456010.340875,VS0,VE648',
+253 verbose headers   vary: 'Accept-Encoding' }
+254 silly get cb [ 404,
+254 silly get   { 'content-type': 'application/json',
+254 silly get     'cache-control': 'max-age=0',
+254 silly get     'content-length': '2',
+254 silly get     'accept-ranges': 'bytes',
+254 silly get     date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+254 silly get     via: '1.1 varnish',
+254 silly get     age: '0',
+254 silly get     connection: 'keep-alive',
+254 silly get     'x-served-by': 'cache-lhr6333-LHR',
+254 silly get     'x-cache': 'MISS',
+254 silly get     'x-cache-hits': '0',
+254 silly get     'x-timer': 'S1497456010.340875,VS0,VE648',
+254 silly get     vary: 'Accept-Encoding' } ]
+255 http 404 https://registry.npmjs.org/message-processing.js
+256 verbose headers { 'content-type': 'application/json',
+256 verbose headers   'cache-control': 'max-age=0',
+256 verbose headers   'content-length': '2',
+256 verbose headers   'accept-ranges': 'bytes',
+256 verbose headers   date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+256 verbose headers   via: '1.1 varnish',
+256 verbose headers   age: '0',
+256 verbose headers   connection: 'keep-alive',
+256 verbose headers   'x-served-by': 'cache-lhr6322-LHR',
+256 verbose headers   'x-cache': 'MISS',
+256 verbose headers   'x-cache-hits': '0',
+256 verbose headers   'x-timer': 'S1497456010.344190,VS0,VE653',
+256 verbose headers   vary: 'Accept-Encoding' }
+257 silly get cb [ 404,
+257 silly get   { 'content-type': 'application/json',
+257 silly get     'cache-control': 'max-age=0',
+257 silly get     'content-length': '2',
+257 silly get     'accept-ranges': 'bytes',
+257 silly get     date: 'Wed, 14 Jun 2017 16:00:10 GMT',
+257 silly get     via: '1.1 varnish',
+257 silly get     age: '0',
+257 silly get     connection: 'keep-alive',
+257 silly get     'x-served-by': 'cache-lhr6322-LHR',
+257 silly get     'x-cache': 'MISS',
+257 silly get     'x-cache-hits': '0',
+257 silly get     'x-timer': 'S1497456010.344190,VS0,VE653',
+257 silly get     vary: 'Accept-Encoding' } ]
+258 verbose stack Error: Registry returned 404 for GET on https://registry.npmjs.org/testing_bot.js
+258 verbose stack     at makeError (/usr/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:302:12)
+258 verbose stack     at CachingRegistryClient.<anonymous> (/usr/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:280:14)
+258 verbose stack     at Request._callback (/usr/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:210:14)
+258 verbose stack     at Request.self.callback (/usr/lib/node_modules/npm/node_modules/request/request.js:187:22)
+258 verbose stack     at emitTwo (events.js:106:13)
+258 verbose stack     at Request.emit (events.js:191:7)
+258 verbose stack     at Request.<anonymous> (/usr/lib/node_modules/npm/node_modules/request/request.js:1048:10)
+258 verbose stack     at emitOne (events.js:96:13)
+258 verbose stack     at Request.emit (events.js:188:7)
+258 verbose stack     at IncomingMessage.<anonymous> (/usr/lib/node_modules/npm/node_modules/request/request.js:969:12)
+259 verbose statusCode 404
+260 verbose pkgid testing_bot.js
+261 verbose cwd /home/fergus/discordBot
+262 error Linux 3.16.0-4-amd64
+263 error argv "/usr/bin/nodejs" "/usr/bin/npm" "outdated"
+264 error node v6.11.0
+265 error npm  v3.10.10
+266 error code E404
+267 error 404 Registry returned 404 for GET on https://registry.npmjs.org/testing_bot.js
+268 error 404
+269 error 404 'testing_bot.js' is not in the npm registry.
+270 error 404 You should bug the author to publish it (or use the name yourself!)
+271 error 404 Note that you can also install from a
+272 error 404 tarball, folder, http url, or git url.
+273 verbose exit [ 1, true ]

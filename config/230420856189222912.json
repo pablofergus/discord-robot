@@ -1,0 +1,18 @@
+{
+  "general": {
+    "prefix": "",
+    "purge_message": true
+  },
+  "music": {
+    "volume": 50,
+    "text_channel": "music",
+    "clear_invoker": false,
+    "max_queue": 20,
+    "repeat": false
+  },
+  "permissions": {
+    "music_permission": "SPEAK",
+    "purge_permission": "MANAGE_MESSAGES",
+    "playlist_permission": "SPEAK"
+  }
+}
